@@ -4,8 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>AP-assignments</artifactId>
     <name>AP-assignments</name>
+=======
+    <artifactId>APP-assignments</artifactId>
+    <name>APP-assignments</name>
+>>>>>>> 04b6fbe (initial commit)
 
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -22,7 +27,11 @@
 
     <build>
 
+<<<<<<< HEAD
         <finalName>AP-assignments</finalName>
+=======
+        <finalName>APP-assignments</finalName>
+>>>>>>> 04b6fbe (initial commit)
 
         <plugins>
 
